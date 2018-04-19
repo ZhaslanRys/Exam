@@ -1,0 +1,11 @@
+c:\Users\рыспековж\documents\visual studio 2017\Projects\ExamADO.NET\Exam\bin\Debug\Exam.exe.config
+c:\Users\рыспековж\documents\visual studio 2017\Projects\ExamADO.NET\Exam\bin\Debug\Exam.exe
+c:\Users\рыспековж\documents\visual studio 2017\Projects\ExamADO.NET\Exam\bin\Debug\Exam.pdb
+c:\Users\рыспековж\documents\visual studio 2017\Projects\ExamADO.NET\Exam\bin\Debug\EntityFramework.dll
+c:\Users\рыспековж\documents\visual studio 2017\Projects\ExamADO.NET\Exam\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\рыспековж\documents\visual studio 2017\Projects\ExamADO.NET\Exam\bin\Debug\EntityFramework.xml
+c:\Users\рыспековж\documents\visual studio 2017\Projects\ExamADO.NET\Exam\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\рыспековж\documents\visual studio 2017\Projects\ExamADO.NET\Exam\bin\Debug\ru\EntityFramework.resources.dll
+c:\Users\рыспековж\documents\visual studio 2017\Projects\ExamADO.NET\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+c:\Users\рыспековж\documents\visual studio 2017\Projects\ExamADO.NET\Exam\obj\Debug\Exam.exe
+c:\Users\рыспековж\documents\visual studio 2017\Projects\ExamADO.NET\Exam\obj\Debug\Exam.pdb
